@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4792e79b-64a2-4c54-9cfe-8298cd9d439e": {
+      "ProjectGuid": "4792e79b-64a2-4c54-9cfe-8298cd9d439e",
+      "DisplayName": "LoginWebApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
